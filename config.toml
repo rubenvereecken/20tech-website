@@ -1,7 +1,7 @@
 baseURL = 'https://20tech.io'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
-title = '20Tech'
+title = '20Tech | Ruben Vereecken'
 theme = 'KeepIt'
 
 enableEmoji = true
@@ -12,8 +12,8 @@ enableEmoji = true
 [params]
     since = 2022
     author = "Ruben Vereecken"
-    subtitle = "Recovering CTO & Founder. Full-stack, cloud, & machine learning. PhD in AI/AGI in another life."
-    subsubtitle = 'Focusing on the 20 of the <a href="">80/20 rule</a>.'
+    subtitle = "/"
+    subsubtitle = '/'
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
