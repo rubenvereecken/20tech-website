@@ -25,6 +25,8 @@ enableEmoji = true
     baidu_verification = ""
 
     avatar = "/images/ruben.jpg" #comment it to use gravatar
+    cv = "Ruben Vereecken - CTO.pdf"
+
     socialShare = true
 
     description = "" # site description
@@ -37,7 +39,7 @@ enableEmoji = true
     GitHub = "rubenvereecken"
 #    Strava = "20604761"
     Email   = "ruben AT 20tech DOT io"
-    Resume = 'https://static.lessgo.co/ruben.pdf'
+    Resume = 'yes'
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
